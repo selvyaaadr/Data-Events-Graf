@@ -15,7 +15,7 @@ USERNAME = "neo4j"
 
 # GANTI dengan password database Neo4j milikmu.
 # Jangan membagikan password ini kepada siapa pun.
-PASSWORD = "selvy2004"
+PASSWORD = "ISI DENGAN PASWORD"
 
 BATCH_SIZE = 100
 
